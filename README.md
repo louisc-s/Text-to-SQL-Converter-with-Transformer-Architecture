@@ -1,1 +1,1 @@
-# Text-to-SQL-Converter-with-Transformer-Architecture-
+# Text-to-SQL-Converter-with-Transformer-Architecture
