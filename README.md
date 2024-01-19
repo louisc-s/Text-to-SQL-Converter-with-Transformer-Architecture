@@ -1,5 +1,5 @@
 # Text-to-SQL-Converter-with-Transformer-Architecture
-Code to implemnent a transformer model that converts natural text in to SQL queries  
+Code to implemnent a transformer model that converts natural text into SQL queries  
 
 ## Overview
 
